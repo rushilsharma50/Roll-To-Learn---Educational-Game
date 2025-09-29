@@ -76,12 +76,12 @@ The game's flow is designed to be intuitive and engaging. The following diagrams
 **Use Case Diagram**
 This diagram shows the main actions a player can perform within the "Roll to learn System."
 
-![Use Case Diagram](https://i.imgur.com/your-usecase-diagram.png)
+![Use Case Diagram](Screenshots/UML-State-case-daigram.jpg)
 
 **UML Activity Diagram**
 This diagram visualizes the flow of the game from start to level completion, including the question-answer loop and the IQ point evaluation logic.
 
-![Activity Diagram](https://i.imgur.com/your-activity-diagram.png)
+![Activity Diagram](Screenshots/Activity_Daigram.jpg)
 
 ---
 
