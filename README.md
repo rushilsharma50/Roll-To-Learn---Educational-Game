@@ -3,7 +3,7 @@
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS-blueviolet.svg)](https://unity.com/)
 [![Language](https://img.shields.io/badge/C%23-Powered-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-[cite_start]**Roll To Learn** is an innovative 3D educational game developed as a major project at Parul University[cite: 2, 3]. [cite_start]It's designed to make learning an engaging adventure by blending real-world exploration with a dynamic, multimedia-rich quizzing system[cite: 75]. [cite_start]Unlike traditional educational games that rely on repetitive formats, this project immerses players in a visually compelling environment where knowledge acquisition is driven by curiosity and discovery[cite: 75, 91].
+**Roll To Learn** is an innovative 3D educational game developed as a major project at Parul University. It's designed to make learning an engaging adventure by blending real-world exploration with a dynamic, multimedia-rich quizzing system.Unlike traditional educational games that rely on repetitive formats, this project immerses players in a visually compelling environment where knowledge acquisition is driven by curiosity and discovery.
 
 ---
 
@@ -24,18 +24,18 @@
 
 ### 🎯 Problem Statement
 
-[cite_start]Many educational games fail to captivate players due to simplistic, repetitive question-answer formats[cite: 91]. [cite_start]They often lack immersive storytelling, real-world context, and a rewarding sense of progression, limiting their educational impact and entertainment value[cite: 93, 94]. [cite_start]**Roll To Learn** bridges this gap by creating an interactive experience where learning is a fun and impactful part of the gameplay, not just an objective[cite: 94].
+Many educational games fail to captivate players due to simplistic, repetitive question-answer formats. They often lack immersive storytelling, real-world context, and a rewarding sense of progression, limiting their educational impact and entertainment value. **Roll To Learn** bridges this gap by creating an interactive experience where learning is a fun and impactful part of the gameplay, not just an objective.
 
 ---
 
 ### ✨ Key Features
 
-* [cite_start]🌍 **3D Exploration:** Navigate through beautifully crafted, real-world-inspired environments like historical sites, libraries, and mysterious caves[cite: 192, 215, 464, 450].
-* [cite_start]🎲 **Dynamic Dice Mechanic:** A core gameplay loop where rolling a dice triggers engaging, visually-based questions, adding an element of chance and excitement[cite: 86, 218].
+* 🌍 **3D Exploration:** Navigate through beautifully crafted, real-world-inspired environments like historical sites, libraries, and mysterious caves.
+* 🎲 **Dynamic Dice Mechanic:** A core gameplay loop where rolling a dice triggers engaging, visually-based questions, adding an element of chance and excitement.
 * 🧠 **Diverse Question Framework:** Engages players with classic single-answer multiple-choice questions designed to test and reinforce specific knowledge across **STEAM** and **Cultural History**. This focused approach ensures a clear learning outcome for each challenge.
-* [cite_start]📈 **IQ Point & Progression System:** Earn IQ points for correct answers to unlock new levels and challenges, providing a clear sense of achievement and motivation[cite: 87, 100].
-* [cite_start]multimedia **Multimedia Integration:** Questions are presented using a rich combination of audio, video clips, and captivating visuals, enhancing comprehension and retention[cite: 85, 97, 222].
-* [cite_start]💡 **Constructive Feedback:** Incorrect answers are met with helpful feedback and hints, turning mistakes into learning opportunities[cite: 87, 99, 225].
+* 📈 **IQ Point & Progression System:** Earn IQ points for correct answers to unlock new levels and challenges, providing a clear sense of achievement and motivation.
+* multimedia **Multimedia Integration:** Questions are presented using a rich combination of audio, video clips, and captivating visuals, enhancing comprehension and retention.
+* 💡 **Constructive Feedback:** Incorrect answers are met with helpful feedback and hints, turning mistakes into learning opportunities.
 
 ---
 
@@ -46,14 +46,14 @@ Here are some snapshots of the game environment and user interface from the Unit
 | Game Room & Cultural Artifacts                               | Question UI & Dice Mechanic                             |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
 | ![Screenshot of the main game room](Screenshots/room.jpg) | ![Question Type 1](Screenshots/dice2.jpg) |
-| [cite_start]*A view of one of the game's interactive rooms.* [cite: 391] | [cite_start]*Example of a multiple-choice question.* [cite: 412] |
+| *A view of one of the game's interactive rooms.*  | *Example of a multiple-choice question.*  |
 | ![One of Seven Wonders](Screenshots/ram-janmabhoomi-mandir.jpg) | ![Question Type 2](Screenshots/dice.jpg) |
-| [cite_start]*A cultural monument rendered as a hologram.* [cite: 413] | [cite_start]*A history-based question about a famous figure.* [cite: 436] |
+| *A cultural monument rendered as a hologram.*  | *A history-based question about a famous figure.*  |
 
 | Guide Character & Fantasy Environment                        | Cutscene & 3D Modeling in Blender                     |
 | ------------------------------------------------------------ | ----------------------------------------------------- |
 | ![Golden Tree](Screenshots/elder-tree.jpg) | ![Guide Luna](Screenshots/luna.jpg) |
-| [cite_start]*The magical Golden Tree in a special game level.* [cite: 504] | [cite_start]*The guide character, Luna, as seen in Blender.* [cite: 477] |
+| *The magical Golden Tree in a special game level.*  | *The guide character, Luna, as seen in Blender.*  |
 
 
 ---
@@ -62,10 +62,10 @@ Here are some snapshots of the game environment and user interface from the Unit
 
 This project was built using a combination of powerful and industry-standard tools:
 
-* [cite_start]**Game Engine:** **Unity (2022.3 LTS)** - Used as the core platform to build the 3D world, manage assets, and script game logic[cite: 173, 329].
-* [cite_start]**Programming Language:** **C#** - The primary language for scripting all game mechanics, UI interactions, and logic within Unity[cite: 175].
-* [cite_start]**3D Modeling & Animation:** **Blender** - Employed for creating custom 3D models and animations for environments and game assets[cite: 177, 331].
-* [cite_start]**Video Editing:** **KineMaster** - Utilized to create and edit the short, engaging video clips used for multimedia questions[cite: 178, 333].
+* **Game Engine:** **Unity (2022.3 LTS)** - Used as the core platform to build the 3D world, manage assets, and script game logic.
+* **Programming Language:** **C#** - The primary language for scripting all game mechanics, UI interactions, and logic within Unity.
+* **3D Modeling & Animation:** **Blender** - Employed for creating custom 3D models and animations for environments and game assets.
+* **Video Editing:** **KineMaster** - Utilized to create and edit the short, engaging video clips used for multimedia questions.
 
 ---
 
@@ -90,8 +90,8 @@ This diagram visualizes the flow of the game from start to level completion, inc
 To run this project locally, you will need the following:
 
 **Prerequisites:**
-* [cite_start]**Unity Hub** [cite: 335]
-* [cite_start]**Unity Editor version 2022.3 LTS or a compatible LTS version** [cite: 329]
+* **Unity Hub** 
+* **Unity Editor version 2022.3 LTS or a compatible LTS version** 
 * **Git**
 
 **Installation:**
@@ -107,9 +107,9 @@ To run this project locally, you will need the following:
 6.  Press the **Play** button in the Unity Editor to start the game.
 
 **Recommended Hardware:**
-* [cite_start]**Processor:** Intel Core i5-11400 / AMD Ryzen 5 4600G [cite: 371]
-* [cite_start]**Memory (RAM):** 12 GB or more [cite: 372]
-* [cite_start]**Graphics Card:** NVIDIA RTX 3050 (4 GB VRAM) / AMD Radeon RX 560 (4 GB VRAM) [cite: 373]
+* **Processor:** Intel Core i5-11400 / AMD Ryzen 5 4600G 
+* **Memory (RAM):** 12 GB or more 
+* **Graphics Card:** NVIDIA RTX 3050 (4 GB VRAM) / AMD Radeon RX 560 (4 GB VRAM) 
 
 ---
 
@@ -117,11 +117,11 @@ To run this project locally, you will need the following:
 
 We have identified several exciting avenues for future development to expand the game's impact and capabilities:
 
-* [cite_start]**Content Expansion:** Adding new subjects like geography and environmental science, and incorporating more diverse cultural histories[cite: 521, 522].
-* [cite_start]**Multiplayer Mode:** Introducing collaborative and competitive modes for enhanced social engagement[cite: 524].
-* [cite_start]**Adaptive Difficulty:** Implementing a system that adjusts question difficulty based on player performance[cite: 526].
-* [cite_start]**Augmented Reality (AR) Integration:** Exploring AR features to overlay game elements onto the real world[cite: 528].
-* [cite_start]**Educator Tools:** Developing a backend analytics system and a companion tool for teachers to customize content for classroom use[cite: 537, 538].
+* **Content Expansion:** Adding new subjects like geography and environmental science, and incorporating more diverse cultural histories.
+* **Multiplayer Mode:** Introducing collaborative and competitive modes for enhanced social engagement.
+* **Adaptive Difficulty:** Implementing a system that adjusts question difficulty based on player performance.
+* **Augmented Reality (AR) Integration:** Exploring AR features to overlay game elements onto the real world.
+* **Educator Tools:** Developing a backend analytics system and a companion tool for teachers to customize content for classroom use.
 
 ---
 
@@ -129,12 +129,12 @@ We have identified several exciting avenues for future development to expand the
 
 This project was a collaborative effort by:
 
-* [cite_start]**Patil Dhruv Prakash** [2303051457005] [cite: 11]
-* [cite_start]**Sharma Rushilkumar** [2303051457007] [cite: 11]
-* [cite_start]**Singh Khushi** [2303051057078] [cite: 12]
+* **Patil Dhruv Prakash** [2303051457005] 
+* **Sharma Rushilkumar** [2303051457007] 
+* **Singh Khushi** [2303051057078] 
 
 ---
 
 ### 🙏 Acknowledgments
 
-We would like to express our sincere gratitude to our project guide, **Mr. [cite_start]Ajay Solanki** (Assistant Professor, CSE, PIT), for his continuous guidance and support throughout the development of this project[cite: 14, 55]. [cite_start]We also thank the Department of Computer Science & Engineering and Parul University for providing us with this opportunity[cite: 56].
+We would like to express our sincere gratitude to our project guide, **Mr. Ajay Solanki** (Assistant Professor, CSE, PIT), for his continuous guidance and support throughout the development of this project. We also thank the Department of Computer Science & Engineering and Parul University for providing us with this opportunity.
