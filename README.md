@@ -2,7 +2,6 @@
 
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS-blueviolet.svg)](https://unity.com/)
 [![Language](https://img.shields.io/badge/C%23-Powered-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [cite_start]**Roll To Learn** is an innovative 3D educational game developed as a major project at Parul University[cite: 2, 3]. [cite_start]It's designed to make learning an engaging adventure by blending real-world exploration with a dynamic, multimedia-rich quizzing system[cite: 75]. [cite_start]Unlike traditional educational games that rely on repetitive formats, this project immerses players in a visually compelling environment where knowledge acquisition is driven by curiosity and discovery[cite: 75, 91].
 
