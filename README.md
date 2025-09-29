@@ -45,14 +45,14 @@ Here are some snapshots of the game environment and user interface from the Unit
 
 | Game Room & Cultural Artifacts                               | Question UI & Dice Mechanic                             |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
-| ![Screenshot of the main game room](Screenshots/room.jpg) | ![Question Type 1](https://i.imgur.com/your-image-2.png) |
+| ![Screenshot of the main game room](Screenshots/room.jpg) | ![Question Type 1](Screenshots/dice2.jpg) |
 | [cite_start]*A view of one of the game's interactive rooms.* [cite: 391] | [cite_start]*Example of a multiple-choice question.* [cite: 412] |
 | ![One of Seven Wonders](https://i.imgur.com/your-image-3.png) | ![Question Type 2](https://i.imgur.com/your-image-4.png) |
 | [cite_start]*A cultural monument rendered as a hologram.* [cite: 413] | [cite_start]*A history-based question about a famous figure.* [cite: 436] |
 
 | Guide Character & Fantasy Environment                        | Cutscene & 3D Modeling in Blender                     |
 | ------------------------------------------------------------ | ----------------------------------------------------- |
-| ![Golden Tree](https://i.imgur.com/your-image-5.png) | ![Guide Luna](https://i.imgur.com/your-image-6.png) |
+| ![Golden Tree](Screenshots/elder-tree.jpg) | ![Guide Luna](Screenshots/luna.jpg) |
 | [cite_start]*The magical Golden Tree in a special game level.* [cite: 504] | [cite_start]*The guide character, Luna, as seen in Blender.* [cite: 477] |
 
 
