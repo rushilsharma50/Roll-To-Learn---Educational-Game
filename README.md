@@ -32,7 +32,7 @@
 
 * [cite_start]🌍 **3D Exploration:** Navigate through beautifully crafted, real-world-inspired environments like historical sites, libraries, and mysterious caves[cite: 192, 215, 464, 450].
 * [cite_start]🎲 **Dynamic Dice Mechanic:** A core gameplay loop where rolling a dice triggers engaging, visually-based questions, adding an element of chance and excitement[cite: 86, 218].
-* [cite_start]🧠 **Diverse Question Framework:** Tackle a wide range of questions covering **STEAM** (Science, Technology, Engineering, Arts, and Mathematics) and **Cultural History**[cite: 89, 98, 221].
+* 🧠 **Diverse Question Framework:** Engages players with classic single-answer multiple-choice questions designed to test and reinforce specific knowledge across **STEAM** and **Cultural History**. This focused approach ensures a clear learning outcome for each challenge.
 * [cite_start]📈 **IQ Point & Progression System:** Earn IQ points for correct answers to unlock new levels and challenges, providing a clear sense of achievement and motivation[cite: 87, 100].
 * [cite_start]multimedia **Multimedia Integration:** Questions are presented using a rich combination of audio, video clips, and captivating visuals, enhancing comprehension and retention[cite: 85, 97, 222].
 * [cite_start]💡 **Constructive Feedback:** Incorrect answers are met with helpful feedback and hints, turning mistakes into learning opportunities[cite: 87, 99, 225].
