@@ -106,11 +106,6 @@ To run this project locally, you will need the following:
 5.  Once the project is loaded, locate the main scene file in the `Assets/Scenes` folder and open it.
 6.  Press the **Play** button in the Unity Editor to start the game.
 
-**Recommended Hardware:**
-* **Processor:** Intel Core i5-11400 / AMD Ryzen 5 4600G 
-* **Memory (RAM):** 12 GB or more 
-* **Graphics Card:** NVIDIA RTX 3050 (4 GB VRAM) / AMD Radeon RX 560 (4 GB VRAM) 
-
 ---
 
 ### 🔭 Future Scope
